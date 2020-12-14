@@ -34,8 +34,9 @@ The pipeline consisted of 5 steps. The pipeline process one image at time. Image
 
 5- Hough parameters setup and Hough transformation;
 
+---
 
-draw_lines() in HoughLinesP function description:
+**draw_lines() in HoughLinesP function description:**
 
 
 1- For each set of coordinates found in HoughLinesP() output, slope and center coordinate (x,y) are calcualted;
