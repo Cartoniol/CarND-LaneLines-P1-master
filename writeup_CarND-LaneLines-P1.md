@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 
 ### 1. Pipeline description.
 
-The pipeline consisted of 5 steps. The pipeline process one image at time. Image can come from a folder or a video
+The pipeline consisted of 5 steps. The pipeline processes one image at time. Image can come from a folder or a video
 
 1- Garyscale conversion;
 
